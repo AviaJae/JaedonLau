@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaedonLau
 - 👀 I’m interested in node.js and HTML
-- 🌱 I’m currently learning how to make a discord bot with discord.js
+- 🌱 I’m currently learning to make a discord bot with new features.
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me? idk
 
